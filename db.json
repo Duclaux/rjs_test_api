@@ -1,0 +1,49 @@
+{
+  "utilisateurs": [
+    {
+      "id": "a29c",
+      "nomUtilisateur": "DucFred",
+      "mailUtilisateur": "duc@fred.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456"
+    }
+  ],
+  "publications": [
+    {
+      "id": "8698",
+      "textePublication": "bonjour les amis",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/developpeur-logiciels-pensant-tout-touchant-barbe-tout-tapant-ordinateur-portable-assis-au-bureau-plusieurs-ecrans-analysant-code-administrateur-base-donnees-cible-travaillant-codage-equipe-arriere-plan_482257-33556.jpg?t=st=1716513252~exp=1716516852~hmac=58532ee8ea0cb9e9860f44819600c682cb0562524b2d7614e382c89c1735261c&w=1480",
+      "idUtilisateur": "a29c",
+      "datePublication": "2024-05-24T01:14:37.058Z",
+      "likePublication": 0,
+      "auteur": "DucFred"
+    },
+    {
+      "id": "758e",
+      "textePublication": "une autre photo d'un codeur",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/jeune-homme-ingenieur-faisant-analyses-programme_1303-20402.jpg?t=st=1716518115~exp=1716521715~hmac=a766b594e4c11d3886a92bcf6c9aaf89e9181de6844fa38e6ab5ae3bd8bc5a7e&w=1380",
+      "idUtilisateur": "a29c",
+      "datePublication": "2024-05-24T02:36:42.245Z",
+      "likePublication": 0,
+      "auteur": "DucFred"
+    },
+    {
+      "id": "dfde",
+      "textePublication": "hey......cette fois un photo d'une fille programmeur",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/femme-affaires-afro-americaine-travaillant-ordinateur_1303-9873.jpg?t=st=1716518786~exp=1716522386~hmac=8fcfaf8d0f7c058af6d35367d57ebd063cdfd2dc94163b4c5f5d3c073da2bc71&w=1380",
+      "idUtilisateur": "a29c",
+      "datePublication": "2024-05-24T02:46:12.399Z",
+      "likePublication": 0,
+      "auteur": "DucFred"
+    },
+    {
+      "id": "ab0e",
+      "textePublication": "bon cette fois publication de nourriture",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/croquettes-poulet-servies-frites-plateau-bois-salade-fraiche_140725-10466.jpg?t=st=1716518929~exp=1716522529~hmac=1ae77c1ab2a5781ed268e7ed0b5330482b2e6282ae0bf7d489e1d2c582841122&w=740",
+      "idUtilisateur": "a29c",
+      "datePublication": "2024-05-24T02:49:19.888Z",
+      "likePublication": 0,
+      "auteur": "DucFred"
+    }
+  ]
+}
